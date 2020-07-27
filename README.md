@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 - ⚡ Fun fact: 努力学习中！！！！
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leungwn&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leungwn&show_icons=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
